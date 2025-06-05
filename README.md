@@ -1,3 +1,3 @@
 # Project Synopsis
 
-Write an overview of your project here. Should include quick background about the applied relevance of your work, hypotheses, objectives, experimental design, and a summary of your findings. *No more than 500 words.*
+Physiological effects of increased CaCO3 levels were tested on Hairy Shore Crabs (Hemigrapsus oregonensis) by increasing CaCO3 levels above that of baseline. Righting times, autopsy results and physiological assays of hemolymph were collected to serve as analysis.
